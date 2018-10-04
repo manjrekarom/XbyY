@@ -13,4 +13,4 @@ You can use unit tests for this. You can write these unit tests once and keep. T
 This is a tutorial on unit testing in Java. http://tutorials.jenkov.com/java-unit-testing/index.html
 
 ### Author
-[Omkar Manjrekar](github.com/manjrekarom)
+[Omkar Manjrekar](https://github.com/manjrekarom)
