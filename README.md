@@ -38,13 +38,13 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ### What you have to do or rather how to contribute?
 1. Fork this repo.
 2. Clone the repository. 
-3. Modify the [XbyY.md](./XbyY.md) file and add a new file in XbyY folder.
+3. Modify the [XbyY.md](./XbyY.md) file and add a new file in [XbyY folder](https://github.com/manjrekarom/XbyY/tree/master/XbyY).
 4. Make any additional changes (need to create new folder or files).
 5. Push the changes to your local reposiory.
 4. Make a PR for changes to be added here.
 5. And lastly **Star this repository** if you think the idea is something you find of use. Thanks!
 
-### What to change and template for changes
+### What to change and a template for changes?
 You will directly edit the **XbyY.md file** with your name, problem and category. You will also create and upload a file in the **XbyY folder**. The problem statement will cover your problem. Give a brief solution (preferrably one-two words, if its some code snippet write the language name like in Python) like name of the library or framework or practise.
 
 **The problem statement will be a link to the file you make in XbyY folder. This file will contain the complete solution.**
