@@ -9,7 +9,8 @@ Instead if I could just know about the things that are out there with which we c
 
 You would argue that you can easily do a google search. Yes we can, but a lot of times its difficult to search something because we don't really know what we want and if a tool or a library for it already exists.
 
-### What could the issues be?
+
+### What could the problems(Xs) be?
 #### 1. General software development
   I was working on a big (for me) Java project for the first time, on my own. I didn't know how to check if my code is proper without linking it to the main. Little did I know about unit tests back then. 
 
@@ -25,6 +26,14 @@ You would argue that you can easily do a google search. Yes we can, but a lot of
 This repository will be collection of such and other recurring issues that can be easily solved with libraries and frameworks already out there (solution need not necessarily be a library or a framework).
 
 Let's build a database of problems that we face generally, frustrate ourselves with :P and later find a better way to do it.
+
+Also, its hacktoberfest time.
+
+### What is Hacktoberfest?
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+
 
 ### What you have to do or rather how to contribute?
 1. Fork this repo.
