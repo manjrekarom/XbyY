@@ -23,11 +23,14 @@ You would argue that you can easily do a google search. Yes we can, but a lot of
 
 #### 5. Issues that you think cannot be typed in the search bar because its very verbose to explain
 
+
+
 This repository will be collection of such and other recurring issues that can be easily solved with libraries and frameworks already out there (solution need not necessarily be a library or a framework).
 
 Let's build a database of problems that we face generally, frustrate ourselves with :P and later find a better way to do it.
 
 Also, its hacktoberfest time.
+
 
 ### What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -36,13 +39,13 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 
 ### What you have to do or rather how to contribute?
-1. Fork this repo.
-2. Clone the repository. 
+1. Fork this repository.
+2. Clone your forked repository. 
 3. Modify the [XbyY.md](./XbyY.md) file and add a new file in [XbyY folder](https://github.com/manjrekarom/XbyY/tree/master/XbyY).
-4. Make any additional changes (need to create new folder or files).
+4. Make any additional changes (if you need to create new folder or files).
 5. Push the changes to your local reposiory.
 4. Make a PR for changes to be added here.
-5. And lastly **Star this repository** if you think the idea is something you find of use. Thanks!
+5. And lastly **Star this repository** if you think the idea is something that you find of use. Thanks!
 
 ### What to change and a template for changes?
 You will directly edit the **XbyY.md file** with your name, problem and category. You will also create and upload a file in the **XbyY folder**. The problem statement will cover your problem. Give a brief solution (preferrably one-two words, if its some code snippet write the language name like in Python) like name of the library or framework or practise.
