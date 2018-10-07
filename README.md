@@ -59,6 +59,7 @@ Now, in the XbyY folder, create a Markdown file with a name resembling your prob
 If your solution is not hosted as a tutorial anywhere on the internet, that is, if its a custom one like code snippet or something you can create a code file and tutorial file for it in the folder for code snippets (or some folder that resembles your problem statement) and include the folder in the commit. **Create your folder (with name resembling problem statement) inside XbyYTutorial folder.** After that give a link to that specific folder or file in tutorial.
 
 Make this change in the [XbyY.md](./XbyY.md)
+
 |Argument|Description|Required|
 |--------|-----------|--------|
 |# 1|Name and link to your github profile|Yes| 
@@ -66,7 +67,8 @@ Make this change in the [XbyY.md](./XbyY.md)
 |# 3|Provides the category of the above problem|Yes|
 |# 4|Very brief solution
 
-Create a file in [XbyY folder](./XbyY/) and add this to it 
+Create a file in [XbyY folder](./XbyY/) and add this to it
+
 |Argument|Description|Required|
 |--------|-----------|--------|
 |# 1|Name and link to your github profile|Yes| 
