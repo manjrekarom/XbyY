@@ -65,7 +65,6 @@ Make this change in the [XbyY.md](./XbyY.md)
 |# 1|Name and link to your github profile|Yes| 
 |# 2|Provides your problem statement description|Yes|
 |# 3|Provides the category of the above problem|Yes|
-|# 4|Very brief solution
 
 Create a file in [XbyY folder](./XbyY/) and add this to it
 
